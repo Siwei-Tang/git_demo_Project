@@ -4,3 +4,4 @@
 this is use to show the function of "git diff"
 
 branch A
+branchB
